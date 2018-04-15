@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Graphics</string>
+
+    <string name="text_graphics_options">Choose Graphics example</string>
+    <string name="btn_simple_draw_activity">START SIMPLE DRAW ACTIVITY</string>
+    <string name="btn_interaction_activity">START INTERACTION ACTIVITY</string>
+    <string name="btn_animation_activity">START ANIMATION ACTIVITY</string>
+</resources>
